@@ -8,4 +8,4 @@ O design system contempla detalhes de icones, botões, tipografia e cores que se
 ![Icones](https://github.com/user-attachments/assets/c6e593d0-e239-495e-81f1-df89fcc4dea6)
 ![Botões](https://github.com/user-attachments/assets/5f4f674a-42ad-4a3c-aef7-4368279cdfb5)
 ![Tipografia](https://github.com/user-attachments/assets/c0e249fa-2a77-4dac-814f-fee1722f20c5)
-![Icones](https://github.com/user-attachments/assets/eed3db1b-c429-4618-83af-a8b622ed6a29)
+![Cores](https://github.com/user-attachments/assets/b00b58a5-76fd-4ff2-a6a9-1090098add86)
